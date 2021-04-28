@@ -4,5 +4,5 @@
 * parser.py will generate the parsed logs in .xlsx format.
 
 
-* ![](https://i.imgur.com/FqbdYdp.png)
+![](https://i.imgur.com/FqbdYdp.png)
 
