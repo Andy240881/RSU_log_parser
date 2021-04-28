@@ -1,5 +1,5 @@
 # RSU_log_parser
-## 
+## Setup
 * install openpyxl
 ```shell=
 pip install openpyxl
